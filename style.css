@@ -13,9 +13,8 @@ div.boxjudul{
 		background: goldenrod;
 		font-family: georgia;
 		font-style: italic;
-		padding-bottom:4em;
+		padding-bottom:5em;
 		text-shadow: 0px 0px 5px gold;
-	    padding-bottom:10px;
 }
 div.boxjudul h1{
 		border:1px solid black;
