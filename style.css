@@ -55,7 +55,7 @@ div.box1 h2{
 div.box1 p{
 		word-spacing: 0.2em;
 		letter-spacing: 0.1em;
-		text-align: justify
+		text-align: justify;
 		
 }
 
@@ -77,7 +77,7 @@ div.box2{
 		
 }
 div.boxf{
-		text-decoration: underline marron;
+		text-decoration: underline maroon;
 		font-family: arial;
 		font-style: italic;
 		font-size: 80%;
