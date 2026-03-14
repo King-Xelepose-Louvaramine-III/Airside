@@ -1,0 +1,86 @@
+*{
+		padding:1em;
+}
+.boxjudul{
+		margin-bottom: 30px;
+		height: 100px;
+		min-width: 200px;
+		max-width: 400px;
+		text-align: center;
+		align-items: center;
+		border:2px solid black;
+		padding:inherit;
+		background: goldenrod;
+		font-family: georgia;
+		font-style: italic;
+		padding-bottom:4em;
+		text-shadow: 0px 0px 5px gold;
+}
+.boxjudul h1{
+		border:1px solid black;
+		background: ghostwhite;
+		text-decoration: underline;
+}
+.box1{
+		margin-bottom: 30px;
+		min-height: 400px;
+		max-height: 800px;
+		min-width: 200px;
+		max-width: 400px;
+		font: 1em arial ;
+		border:2px solid black;
+		padding:inherit;
+		background: 
+		hsla(200,100%,80%,0.5) 
+		linear-gradient(240deg,
+		hsla(0,100%,100%,0.5),
+		hsla(200,100%,30%,0.5));
+		
+		
+}
+.box1 h2{
+		height: 10%;
+		text-align:  center;
+		text-decoration: underline;
+		font-family:  georgia;
+		font-style: italic;
+		word-spacing: 	1em;
+		letter-spacing: 0.1em;
+		background: ghostwhite;
+		border: 2px solid black;
+		text-shadow: 0px 0px 6px aquamarine;
+/*		text-shadow: 5px 2px 2px;*/
+		
+}
+.box1 p{
+		word-spacing: 0.2em;
+		letter-spacing: 0.1em;
+		text-align: justify
+		
+}
+
+.box2{
+		margin-top: 10px;
+		min-height: 200px;
+		max-height: 400px;
+		min-width: 100px;
+		max-width: 200px;
+		font: 0.8em times;
+		border:2px solid black;
+		padding: 10px;
+		background:
+		hsla(200,100%,80%,0.5) 
+		linear-gradient(240deg,
+		hsla(0,100%,100%,0.5),
+		hsla(100,100%,30%,0.5))
+		
+		
+}
+.boxf{
+		text-decoration: underline marron;
+		font-family: arial;
+		font-style: italic;
+		font-size: 80%;
+		
+}
+
