@@ -1,7 +1,7 @@
 *{
 		padding:1em;
 }
-.boxjudul{
+div.boxjudul{
 		margin-bottom: 30px;
 		height: 100px;
 		min-width: 200px;
@@ -16,12 +16,12 @@
 		padding-bottom:4em;
 		text-shadow: 0px 0px 5px gold;
 }
-.boxjudul h1{
+div.boxjudul h1{
 		border:1px solid black;
 		background: ghostwhite;
 		text-decoration: underline;
 }
-.box1{
+div.box1{
 		margin-bottom: 30px;
 		min-height: 400px;
 		max-height: 800px;
@@ -38,7 +38,7 @@
 		
 		
 }
-.box1 h2{
+div.box1 h2{
 		height: 10%;
 		text-align:  center;
 		text-decoration: underline;
@@ -52,14 +52,14 @@
 /*		text-shadow: 5px 2px 2px;*/
 		
 }
-.box1 p{
+div.box1 p{
 		word-spacing: 0.2em;
 		letter-spacing: 0.1em;
 		text-align: justify
 		
 }
 
-.box2{
+div.box2{
 		margin-top: 10px;
 		min-height: 200px;
 		max-height: 400px;
@@ -76,7 +76,7 @@
 		
 		
 }
-.boxf{
+div.boxf{
 		text-decoration: underline marron;
 		font-family: arial;
 		font-style: italic;
